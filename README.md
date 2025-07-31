@@ -4,95 +4,17 @@
 
 **Transform your engineering institution with powerful department-wise analytics! Track faculty research, student achievements, and institutional performance all in one comprehensive dashboard.**
 
-[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-brightgreen?style=for-the-badge)](https://campus-metrics-maestro-frontend.vercel.app)
-[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![Express.js](https://img.shields.io/badge/Express.js-4.21.1-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-8.7.1-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Firebase](https://img.shields.io/badge/Firebase-10.14.1-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![Material-UI](https://img.shields.io/badge/Material--UI-6.1.3-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://tableau.com)
-[![Vercel](https://img.shields.io/badge/Vercel-Platform-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-brightgreen)](https://campus-metrics-maestro-frontend.vercel.app)
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)](https://reactjs.org)
+[![Node.js](https://img.shields.io/badge/Node.js-Latest-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Express.js](https://img.shields.io/badge/Express.js-4.21.1-000000?logo=express&logoColor=white)](https://expressjs.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-8.7.1-47A248?logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Firebase](https://img.shields.io/badge/Firebase-10.14.1-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Material-UI](https://img.shields.io/badge/Material--UI-6.1.3-007FFF?logo=mui&logoColor=white)](https://mui.com)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)](https://tableau.com)
+[![Vercel](https://img.shields.io/badge/Vercel-Platform-000000?logo=vercel&logoColor=white)](https://vercel.com)
 
 </div>
-
----
-
-## 📋 Table of Contents
-
-- [📸 Screenshots](#-screenshots)
-- [✨ What This Project Does](#-what-this-project-does)
-- [🚀 Why This Project Exists](#-why-this-project-exists)
-- [🎯 Main Goals](#-main-goals)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [⭐ Key Features](#-key-features)
-- [🏗️ How It Works](#️-how-it-works)
-- [🔧 Getting Started](#-getting-started)
-- [� Project Structure](#-project-structure)
-- [🧪 Testing](#-testing)
-- [� Performance](#-performance)
-- [🌐 Deployment](#-deployment)
-- [🎉 Results & Impact](#-results--impact)
-- [🔮 What's Next](#-whats-next)
-- [🤝 Contributing](#-contributing)
-- [📚 References](#-references)
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### 🔐 Secure Google Authentication
-![Login Page](frontend/src/images/1.png)
-
-### 🏠 Personalized Welcome Dashboard
-![Dashboard Greeting Page](frontend/src/images/2.png)
-
-### 📊 Live Analytics with Tableau
-![Tableau Report Page](frontend/src/images/3.png)
-
-### 📝 Smart Data Entry Forms
-![Event Form Filling Page](frontend/src/images/4.png)
-
-### 🗄️ Real-time Database Sync
-![MongoDB API Integration](frontend/src/images/5.png)
-
-</div>
-
----
-
-## ✨ What This Project Does
-
-Campus Metrics Maestro is a **full-stack web application** that helps engineering institutions track and analyze their performance across multiple departments. Think of it as a comprehensive dashboard that gives you insights into:
-
-- 📚 **Faculty Research**: Publications, patents, NPTEL/SWAYAM contributions
-- 💰 **Revenue Tracking**: Consultancy projects, grants, external funding
-- 🏆 **Student Achievements**: GATE scores, hackathon wins, competition success
-- 📈 **Department Analytics**: Compare Computer Science vs Information Technology performance
-
-Instead of scattered spreadsheets and manual tracking, get everything in one beautiful, interactive dashboard powered by **Tableau** visualizations and **real-time MongoDB** data.
-
----
-
-## 🚀 Why This Project Exists
-
-Engineering departments often struggle to track faculty publications and student achievements across different platforms, making performance comparison difficult.
-
-**The Problem:** Educational institutions are drowning in fragmented data - faculty achievements in one system, student records in another, research publications scattered everywhere. No way to get a complete picture or make data-driven decisions.
-
-**The Solution:** A unified platform that automatically collects, processes, and visualizes all this data in beautiful dashboards. Administrators can spot trends, identify top performers, and make strategic decisions based on real insights.
-
----
-
-## 🎯 Main Goals
-
-This project delivers four key objectives:
-
-1. **📋 Smart Data Collection** - Intuitive forms that make data entry enjoyable
-2. **🎨 Beautiful Dashboards** - Interfaces that make complex data easy to understand  
-3. **⚡ Real-time Processing** - Systems that keep everything synced and up-to-date
-4. **🚀 Production Ready** - A fully functional system that stakeholders can use
 
 ---
 
@@ -459,11 +381,11 @@ This project successfully delivers a **complete analytics solution** for enginee
 - **National Benchmarking**: Compare against other institutions
 - **Advanced Role Management**: Granular permission systems
 - **Bulk Data Import**: Excel/CSV upload functionality
-```
+
 
 ---
 
-## 📊 Project Diagrams
+### 📊 Project Diagrams
 
 The system architecture includes comprehensive UML diagrams and flowcharts. All detailed diagrams are available in the `project-diagrams` folder within this repository.
 
@@ -510,7 +432,7 @@ The system architecture includes comprehensive UML diagrams and flowcharts. All 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/user/Project_Campus_Metrics_Maestro.git
+git clone https://github.com/parshwa913/Project_Campus_Metrics_Maestro.git
 cd Campus-Metrics-Maestro
 ```
 
@@ -759,9 +681,9 @@ If you use this project in your research or academic work, please cite it as:
 ```bibtex
 @software{campus_metrics_maestro_2024,
   title={Campus Metrics Maestro: A Comprehensive Department-wise Analytics Platform for Engineering Institutions},
-  author={user},
+  author={Parshwa Herwade},
   year={2024},
-  url={https://github.com/user/Project_Campus_Metrics_Maestro},
+  url={https://github.com/parshwa913/Project_Campus_Metrics_Maestro},
   note={Full-stack web application for educational analytics with React, Node.js, MongoDB, and Tableau integration}
 }
 ```
