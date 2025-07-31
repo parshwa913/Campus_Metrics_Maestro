@@ -189,7 +189,7 @@ This project uses a modern, scalable tech stack that handles complex data proces
 ```
 User Login (Google OAuth) → Dashboard → Data Entry Forms → MongoDB Storage
                                 ↓
-Real-time Sync ← Tableau Visualizations ← Data Processing ← ETL Pipeline
+                 Tableau Visualizations ← Data Processing ← ETL Pipeline
 ```
 
 ### System Architecture Overview
@@ -231,10 +231,10 @@ Make sure you have these installed:
 - **Firebase** project
 - **Tableau Public** account
 
-```
+
 ## 🏗️ System Architecture
 
-```
+
 ---
 
 ## 📁 Project Structure
