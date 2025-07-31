@@ -331,7 +331,7 @@ The development process included 4 key phases:
 ## 🌐 Deployment
 
 ### Live URLs
-- **🌐 Frontend**: [campus-metrics-maestro-frontend.vercel.app](https://campus-metrics-maestro-frontend.vercel.app)
+- **🌐 Frontend**: [campus-metrics-maestro-frontend.vercel.app](https://campus-metrics-maestro.vercel.app/)
 - **📊 Analytics**: Integrated Tableau dashboards
 
 
@@ -465,7 +465,7 @@ npm start
 ### 4️⃣ Access the Application
 - **Frontend Development**: [http://localhost:3000](http://localhost:3000)
 - **Backend API Server**: [http://localhost:5000](http://localhost:5000)
-- **Production Frontend**: [https://campus-metrics-maestro-frontend.vercel.app](https://campus-metrics-maestro-frontend.vercel.app)
+- **Production Frontend**: [https://campus-metrics-maestro-frontend.vercel.app](https://campus-metrics-maestro.vercel.app/)
 
 ### 5️⃣ Initial Setup & Data Configuration
 1. **User Authentication**: Set up Google OAuth and Firebase authentication
@@ -703,6 +703,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/Campus-Metrics-Maestro?style=social)](https://github.com/yourusername/Campus-Metrics-Maestro/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/Campus-Metrics-Maestro?style=social)](https://github.com/yourusername/Campus-Metrics-Maestro/network/members)
+
+**Empowering Educational Institutions with Comprehensive Department-wise Performance Analytics**
+
+[![GitHub stars](https://img.shields.io/github/stars/parshwa913/Project_Campus_Metrics_Maestro?style=social)](https://github.com/parshwa913/Project_Campus_Metrics_Maestro/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/parshwa913/Project_Campus_Metrics_Maestro?style=social)](https://github.com/parshwa913/Project_Campus_Metrics_Maestro/network/members)
 
 **Empowering Educational Institutions with Comprehensive Department-wise Performance Analytics**
 
