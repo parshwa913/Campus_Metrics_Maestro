@@ -331,7 +331,7 @@ The development process included 4 key phases:
 ## 🌐 Deployment
 
 ### Live URLs
-- **🌐 Frontend**: [campus-metrics-maestro.vercel.app](https://campus-metrics-maestro.vercel.app/)
+- **🌐 Frontend**: [campus-metrics-maestro-frontend.vercel.app/](https://campus-metrics-maestro-frontend.vercel.app/)
 - **📊 Analytics**: Integrated Tableau dashboards
 
 
@@ -465,7 +465,7 @@ npm start
 ### 4️⃣ Access the Application
 - **Frontend Development**: [http://localhost:3000](http://localhost:3000)
 - **Backend API Server**: [http://localhost:5000](http://localhost:5000)
-- **Production Frontend**: [https://campus-metrics-maestro.vercel.app/](https://campus-metrics-maestro.vercel.app/)
+- **Production Frontend**: [https://campus-metrics-maestro-frontend.vercel.app/](https://campus-metrics-maestro-frontend.vercel.app/)
 
 ### 5️⃣ Initial Setup & Data Configuration
 1. **User Authentication**: Set up Google OAuth and Firebase authentication
